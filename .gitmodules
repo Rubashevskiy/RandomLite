@@ -1,0 +1,4 @@
+[submodule "src/RandomLite"]
+	path = src/RandomLite
+	url = git@github.com:Rubashevskiy/RandomLite.git
+	branch = submodule
