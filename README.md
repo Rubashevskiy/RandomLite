@@ -30,5 +30,5 @@
            git submodule init
    3. Выполнить получения всех данных из подмодуля комадой
            git submodule update
-   4. Выполняем "g++ example/main.cpp -o UTF8Lite -g -std=c++11"
+   4. Выполняем "g++ example/main.cpp -o RandomLite -g -std=c++11"
    5. При желании запустить тестовый пример командой ./RandomLite
